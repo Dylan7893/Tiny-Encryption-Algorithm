@@ -17,4 +17,4 @@ This C++ implementation of the **Tiny Encryption Algorithm (TEA)** provides a si
 ### Installation and Running the Program
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Dylan7893/TinyEncryptionAlgorithm.git
+   git clone https://github.com/Dylan7893/Tiny-Encryption-Algorithm.git
